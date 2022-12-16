@@ -7,7 +7,8 @@ Loadable components with SSR foundation
 Install the dependencies and run the dev server in order to try it:
 
 ```sh
-yarn && yarn dev
+npm i 
+npm run dev
 ```
 
 Then open [http://localhost:3000/](http://localhost:3000/)<br>
